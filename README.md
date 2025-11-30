@@ -16,11 +16,9 @@
 
 [@ibrahimdde](https://github.com/ibrahimdde)
 
-[...]
+[@edazacar](https://github.com/edazacar)
 
-[...]
-
-[...]
+[@RascalPiedra](https://github.com/RascalPiedra)
 
 ## We are going to Start from Scratch and Aim to Create our "**Dream Game**"!
 
