@@ -7,6 +7,8 @@ public class VoxScript : MonoBehaviour
     public LogicScript logic;
     public float flapStrength;
     public bool isVoxAlive = true;
+    public float dieHeight = 30;
+    public AudioSource flapSound;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -19,6 +21,12 @@ public class VoxScript : MonoBehaviour
         if(Input.GetKeyDown(KeyCode.Space) && isVoxAlive)
         {
             rb.linearVelocity = Vector2.up * flapStrength;
+            flapSound.Play();
+        }
+        if (transform.position.y > dieHeight || transform.position.y < -dieHeight)
+        {
+            logic.gameOver();
+            isVoxAlive = false;
         }
     }
 
