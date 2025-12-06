@@ -31,3 +31,6 @@ ExportedObj/
 *.pidb.meta
 *.pdb.meta
 *.mdb.meta
+
+*.slnx
+/.vs/
