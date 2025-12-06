@@ -802,7 +802,7 @@ GameObject:
   - component: {fileID: 1224723533}
   - component: {fileID: 1224723532}
   m_Layer: 3
-  m_Name: Vox
+  m_Name: Bird
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -923,6 +923,7 @@ MonoBehaviour:
   rb: {fileID: 1224723529}
   logic: {fileID: 0}
   flapStrength: 19
+  isVoxAlive: 1
 --- !u!61 &1224723533
 BoxCollider2D:
   m_ObjectHideFlags: 0
