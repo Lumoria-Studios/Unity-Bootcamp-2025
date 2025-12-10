@@ -10,7 +10,7 @@
 
 [@MoQa-atx](https://github.com/MoQa-atx)
 
-[@suleymanGurbuz](https://github.com/gurbuzsuleyman)
+[@gurbuzsuleyman](https://github.com/gurbuzsuleyman)
 
 [@Fatih-Gokturk](https://github.com/Fatih-Gokturk)
 
