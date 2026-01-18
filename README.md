@@ -1,29 +1,27 @@
-# Lumoria-Studios
+# 🏳️ 2025 Training Bootcamp [PAUSED]
 
- This repo is organized for our 2025 Training Bootcamp! 💪
+> **📢 Status Update:** *We are pivoting!* 🔄
 
- Feel free to explore the repo and our Training Experience!
+This repository was established to document our deep dive into game engine fundamentals. However, at **Lumoria Studios**, we believe in **"Team First, Tools Second."**
 
-## Here is our Team Members:
- 
-[@B3rou](https://github.com/B3rou)
+We have decided to put this specific roadmap on a **strategic pause**.
+Why? Because we found a faster lane to learn shipping, collaboration, and game loops. We are shifting our focus to a new, more rapid environment to build our synergy before returning to deep-dive mechanics.
 
-[@MoQa-atx](https://github.com/MoQa-atx)
+### 🔮 What's Next?
+We aren't stopping. We are just shifting gears to a slightly "blockier" playground to ship our first title faster. 🧱
 
-[@gurbuzsuleyman](https://github.com/gurbuzsuleyman)
+👉 *Keep an eye on the [Lumoria Studios Profile](https://github.com/Lumoria-Studios) to see our new active project surfacing soon!*
 
-[@Fatih-Gokturk](https://github.com/Fatih-Gokturk)
+---
 
-[@ibrahimdde](https://github.com/ibrahimdde)
+## 👥 The Team
+*The squad remains the same, only the mission evolves.*
 
-[@edazacar](https://github.com/edazacar)
+[@B3rou](https://github.com/B3rou) • [@MoQa-atx](https://github.com/MoQa-atx) • [@gurbuzsuleyman](https://github.com/gurbuzsuleyman) • [@Fatih-Gokturk](https://github.com/Fatih-Gokturk) • [@ibrahimdde](https://github.com/ibrahimdde) • [@edazacar](https://github.com/edazacar) • [@RascalPiedra](https://github.com/RascalPiedra)
 
-[@RascalPiedra](https://github.com/RascalPiedra)
+---
 
-## We are going to Start from Scratch and Aim to Create our "**Dream Game**"!
+### 📝 Archival Note
+This repo will remain as an archive of our initial research and "Hello World" steps. It serves as a reminder that **adaptability is a developer's best skill.**
 
-We’ll follow the roadmap we created as a team, using AI-assisted guidance to optimize our learning journey. Each member will develop small projects along the way to reinforce the topics we study!
-
-# That's All So far 👋
-
-We'll update this README.md later on! See you later!! ^^
+See you in the next repo! 👋
